@@ -8,11 +8,11 @@ I received my Ph.D. from the [University of Münster](http://www.uni-muenster.de
 
 I'm interessted in all aspects of *parallel programming*. Particular research interests of mine include *structured parallel programming*, *heterogeneous and GPU computing*, and *novel functional compilation techniques*.
 
-## [Publications](https://michel-steuwer.github.io/publications/)
+## Publications
 
 [https://michel-steuwer.github.io/publications/](https://michel-steuwer.github.io/publications/)
 
-## [Talks](https://michel-steuwer.github.io/talks/)
+## Talks
 
 [https://michel-steuwer.github.io/talks/](https://michel-steuwer.github.io/talks/)
 
