@@ -1,6 +1,6 @@
 # Michel Steuwer
 
-![Me](https://raw.githubusercontent.com/michel-steuwer/michel-steuwer.github.io/master/me.jpg)
+![Me](https://raw.githubusercontent.com/michel-steuwer/michel-steuwer.github.io/master/meRound.jpg)
 
 I'm a postdoctoral research associate at the [University of Edinburgh](http://www.ed.ac.uk/) in the [Compiler and Architecture Design Group (CArD)](http://www.icsa.informatics.ed.ac.uk/compilers/) group. I am a member of the [Institute for Computing Systems Architecture (ICSA)](http://wcms.inf.ed.ac.uk/icsa/) which is part of the [School of Informatics](http://www.ed.ac.uk/schools-departments/informatics/).
 
