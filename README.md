@@ -10,7 +10,11 @@ I'm interessted in all aspects of *parallel programming*. Particular research in
 
 ## [Publications](https://michel-steuwer.github.io/publications/)
 
+[https://michel-steuwer.github.io/publications/](https://michel-steuwer.github.io/publications/)
+
 ## [Talks](https://michel-steuwer.github.io/talks/)
+
+[https://michel-steuwer.github.io/talks/](https://michel-steuwer.github.io/talks/)
 
 ## Contact
 ```
