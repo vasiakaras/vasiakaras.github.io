@@ -18,6 +18,7 @@ I'm interessted in all aspects of *parallel programming*. Particular research in
 
 ## *Curriculum vitae*
 
+[HTML](https://michel-steuwer.github.io/cv/)
 [PDF](https://github.com/michel-steuwer/cv/raw/master/latex/michel_steuwer.pdf)
 
 ## Contact
