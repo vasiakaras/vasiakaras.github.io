@@ -10,4 +10,5 @@ paperurl: '/files/publications/2015/PPPJ-2015.pdf'
 dblp: 'conf/pppj/FumeroRSD15'
 doi: '2807426.2807428'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&cstart=20&citation_for_view=XdXJRZEAAAAJ:Se3iqnhoufwC"
+projects: ['Marawacc']
 ---

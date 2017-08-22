@@ -10,4 +10,5 @@ paperurl: '/files/publications/2016/GPGPU-2016-2.pdf'
 dblp: 'conf/ppopp/HaidlSHG16'
 doi: '2884045.2884049'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:3fE2CSJIrl8C"
+projects: ['PACXX']
 ---

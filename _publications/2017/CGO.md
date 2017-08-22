@@ -10,7 +10,7 @@ paperurl: '/files/publications/2017/CGO-2017.pdf'
 dblp: 'conf/cgo/SteuwerRD17'
 acm-id: '3049841'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:M3ejUd6NZC8C"
-projects: ['lift']
+projects: ['Lift']
 ---
 
 <a href="https://gitlab.com/michel-steuwer/cgo_2017_artifact" style="margin-right:1em">

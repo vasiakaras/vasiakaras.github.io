@@ -9,5 +9,6 @@ proceedings: "Proceedings of the International Conference on Computational Scien
 paperurl: '/files/publications/2013/ICCS-2013.pdf'
 dblp: 'conf/iccS/SteuwerG13'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:qjMakFHDy7sC"
+projects: ['SkelCL']
 ---
 

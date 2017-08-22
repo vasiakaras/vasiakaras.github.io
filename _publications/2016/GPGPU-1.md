@@ -10,5 +10,5 @@ paperurl: '/files/publications/2016/GPGPU-2016-1.pdf'
 dblp: 'conf/ppopp/RemmelgLSD16'
 doi: '2884045.2884046'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:Zph67rFs4hoC"
-projects: ['lift']
+projects: ['Lift']
 ---

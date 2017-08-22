@@ -9,4 +9,5 @@ proceedings: "Parallel Computing Technologies - 12th International Conference, P
 paperurl: '/files/publications/2013/PaCT-2013.pdf'
 dblp: 'conf/pact/SteuwerG13'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:zYLM7Y9cAGgC"
+projects: ['SkelCL']
 ---

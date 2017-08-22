@@ -9,4 +9,5 @@ proceedings: "26th IEEE International Parallel and Distributed Processing Sympos
 paperurl: '/files/publications/2012/HCW-2012.pdf'
 dblp: 'conf/ipps/KegelSG12'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:u-x6o8ySG0sC"
+projects: ['dOpenCL']
 ---

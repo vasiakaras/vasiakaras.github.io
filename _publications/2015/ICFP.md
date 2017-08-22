@@ -11,4 +11,5 @@ dblp: 'conf/icfp/SteuwerFLD15'
 doi: '2784731.2784754'
 videourl: 'https://www.youtube.com/watch?v=xNYMIsGTXC4'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:UebtZRa9Y70C"
+projects: ['Lift']
 ---

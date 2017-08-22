@@ -10,4 +10,5 @@ paperurl: '/files/publications/2017/VEE-2017.pdf'
 dblp: 'conf/vee/FumeroSSD17'
 doi: '3050748.3050761'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&cstart=20&citation_for_view=XdXJRZEAAAAJ:Wp0gIr-vW9MC"
+projects: ['GPU Compilation for Interpreted Languages']
 ---

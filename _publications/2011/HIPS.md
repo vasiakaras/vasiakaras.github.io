@@ -9,4 +9,5 @@ proceedings: "25th IEEE International Symposium on Parallel and Distributed Proc
 paperurl: '/files/publications/2011/HIPS-2011.pdf'
 dblp: 'conf/ipps/SteuwerKG11'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:u5HHmVD_uO8C"
+projects: ['SkelCL']
 ---

@@ -10,4 +10,5 @@ paperurl: '/files/publications/2017/PMAM-2017.pdf'
 dblp: 'conf/ppopp/HaidlSDHG17'
 doi: '3026937.3026942'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&cstart=20&citation_for_view=XdXJRZEAAAAJ:aqlVkmm33-oC"
+projects: ['PACXX']
 ---

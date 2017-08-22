@@ -10,5 +10,5 @@ paperurl: '/files/publications/2016/CASES-2016.pdf'
 dblp: 'conf/cases/SteuwerRD16'
 doi: '2968455.2968521'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&cstart=20&pagesize=80&citation_for_view=XdXJRZEAAAAJ:4TOpqqG69KYC"
-projects: ['lift']
+projects: ['Lift']
 ---

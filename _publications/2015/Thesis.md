@@ -7,7 +7,7 @@ venue: "Ph.D. Thesis, University of Münster, Germany, Supervised by Sergei Gorl
 paperurl: '/files/publications/2015/PhDThesis.pdf'
 dblp: 'phd/de/Steuwer15'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&cstart=20&citation_for_view=XdXJRZEAAAAJ:0EnyYjriUFMC"
-projects: ['lift', 'skelcl']
+projects: ['Lift', 'SkelCL']
 ---
 
 Honoured with the highest possible grade _[Summa Cum Laude](https://en.wiktionary.org/wiki/summa_cum_laude)_ (with highest honours).

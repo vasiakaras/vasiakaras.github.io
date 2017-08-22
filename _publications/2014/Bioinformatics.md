@@ -8,4 +8,5 @@ venue-url: "http://bioinformatics.oxfordjournals.org/"
 paperurl: 'https://doi.org/10.1093/bioinformatics/btu535'
 dblp: 'journals/bioinformatics/OlejnikSGH14'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:IjCSPb-OGe4C"
+project: ['SkelCL']
 ---

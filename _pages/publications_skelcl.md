@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Publications related to the [Lift project](http://www.lift-project.org/)"
-permalink: /publications-lift/
+title: "Publications related to the [SkelCL project](https://skelcl.github.io/)"
+permalink: /publications-skelcl/
 author_profile: true
 ---
 
@@ -11,7 +11,7 @@ author_profile: true
 {% assign need_to_close_ul = false %}
 
 {% for post in site.publications reversed  %}
-{% if post.projects contains 'Lift' %}
+{% if post.projects contains 'SkelCL' %}
   {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% if year != last_year %}
     {% if last_year != '' %}

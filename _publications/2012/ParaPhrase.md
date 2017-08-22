@@ -8,4 +8,5 @@ proceedings: "Euro-Par 2012: Parallel Processing Workshops - BDMC, CGWS, HeteroP
 paperurl: '/files/publications/2012/ParaPhrase-2012.pdf'
 dblp: 'conf/europar/SteuwerGBB12'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:9yKSN-GCB0IC"
+projects: ['SkelCL']
 ---

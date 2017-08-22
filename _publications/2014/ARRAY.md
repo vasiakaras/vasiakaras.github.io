@@ -10,4 +10,5 @@ paperurl: '/files/publications/2014/ARRAY-2014.pdf'
 dblp: 'conf/pldi/FumeroSD14'
 doi: '2627373.2627381'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:WF5omc3nYNoC"
+projects: ['Marawacc']
 ---

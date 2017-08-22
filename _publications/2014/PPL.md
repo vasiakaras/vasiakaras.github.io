@@ -8,4 +8,5 @@ venue-url: "http://www.worldscientific.com/worldscinet/ppl"
 paperurl: '/files/publications/2014/PPL-2014.pdf'
 dblp: 'journals/ppl/SteuwerHBG14'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:ufrVoPGSRksC"
+project: ['SkelCL']
 ---
