@@ -1,5 +1,5 @@
 ---
-title: "Matrix Multiplication Beyond Auto-Tuning<br/> <span style=\"font-size: 75%;\"> Rewrite-based GPU Code Generation</span>"
+title: "Performance Portable GPU Code Generation for Matrix Multiplication"
 collection: publications
 date: 2016-03-09
 authors: "Toomas Remmelg, Thibaut Lutz, Michel Steuwer, and Christophe Dubach"
