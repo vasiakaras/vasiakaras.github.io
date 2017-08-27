@@ -4,6 +4,8 @@ collection: talks
 type: "Talk"
 permalink: /talks/2017/EdinburghCpp
 venue: "C++ Edinburgh Meetups"
+venue-url: "http://cppedinburgh.uk"
 date: 2017-04-10
 location: "Edinburgh, UK"
+slideurl: '/files/talks/2017/EdinburghCpp-2017.pdf'
 ---

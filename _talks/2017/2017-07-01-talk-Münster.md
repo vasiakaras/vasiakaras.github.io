@@ -6,4 +6,5 @@ permalink: /talks/2017/Münster
 venue: "Parallel and Distributed Systems Group, University of Münster"
 date: 2017-07-01
 location: "Münster, Germany"
+slideurl: '/files/talks/2017/Muenster-2017.pdf'
 ---

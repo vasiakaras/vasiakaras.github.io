@@ -6,4 +6,5 @@ permalink: /talks/2015/FunctionalC++
 venue: "Programming Language Interest Group at Edinburgh University"
 date: 2015-12-01
 location: "Edinburgh, UK"
+slideurl: '/files/talks/2015/PLInG-2015.pdf'
 ---

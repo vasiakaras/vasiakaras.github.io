@@ -68,9 +68,9 @@ layout: default
           </p>
 
           {% if page.proceedings %}
-          <p>Published in <i>{{ page.proceedings }}</i></p>
+          <p>Published in <i>{% if page.venue-url %}<a href="{{ page.venue-url }}">{% endif %}{{ page.proceedings }}{% if page.venue-url %}</a>{% endif %}</i></p>
           {% else %}
-          <p><i>{{ page.venue }}</i></p>
+          <p><i>{% if page.venue-url %}<a href="{{ page.venue-url }}">{% endif %}{{ page.venue }}{% if page.venue-url %}</a>{% endif %}</i></p>
           {% endif %}
 
         {% elsif page.date %}

@@ -42,7 +42,16 @@ layout: default
             <strong style="margin-left: 1em;"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i></strong> {{page.location}}
           </p>
         {% endif %}
-        <p>Venue: {{ page.venue }} </p>
+        {% if page.slideurl %}
+        <p>
+          <a href="{{ page.slideurl }}" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="fa fa-file fa-2x"></i></span>PDF Slides</a>
+          {% if page.videourl %}
+          <a href="{{ page.videourl }}" style="margin-right:1em; text-decoration: none;"><span style="margin-right: 0.25em;" class="fa-stack fa-1x"><i class="fa fa-youtube-play fa-2x"></i></span>Video</a>
+          {% endif %}
+        </p>
+        {% endif %}
+
+        <p>Venue: <i>{% if page.venue-url %}<a href="{{ page.venue-url }}">{% endif %}{{ page.venue }}{% if page.venue-url %}</a>{% endif %}</i> </p>
 
         </header>
       {% endunless %}

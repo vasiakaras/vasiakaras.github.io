@@ -6,4 +6,5 @@ permalink: /talks/2016/Cambridge
 venue: "Computer Laboratory Systems Research Group Seminar, University of Cambridge"
 date: 2016-12-01
 location: "Cambridge, UK"
+slideurl: '/files/talks/2016/Cambridge-2016.pdf'
 ---

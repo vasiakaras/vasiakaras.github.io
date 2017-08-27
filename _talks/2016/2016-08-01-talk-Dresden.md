@@ -6,4 +6,5 @@ permalink: /talks/2016/Dresden
 venue: "Center for Advanced Electornics Dresden, Dresden University of Technology"
 date: 2016-08-01
 location: "Dresdenn, Germany"
+slideurl: '/files/talks/2016/TUDresden-2016.pdf'
 ---
