@@ -18,4 +18,5 @@ Organisation Committee Member
 -----
 
 - Artifact Evaluation Chair, [International Symposium on Code Generation and Optimization, CGO 2018](http://cgo.org/cgo2018/)
+- Web & Publicity Chair, [International Conference on Compiler Construction, CC 2018](https://cc-conference.github.io/18/)
 - Local Organisation, [7th UK Many-Core Developer Conference, UKMAC 2016](http://conferences.inf.ed.ac.uk/UKMAC2016/)
