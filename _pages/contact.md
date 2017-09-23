@@ -5,15 +5,15 @@ permalink: /contact/
 author_profile: true
 ---
 
-My office is room 409 in the [Sir Alwyn Williams Building](https://www.google.com/maps?ll=55.8739,-4.291734&z=15&t=h&hl=en-GB&gl=GB&mapclient=embed&q=Sir+Alwyn+Williams+Building+Glasgow+G12+8RZ) of the [School of Computing Science](http://www.gla.ac.uk/schools/computing/contact/).
+My office is M111 in the [Sir Alwyn Williams Building](https://www.google.com/maps?ll=55.8739,-4.291734&z=15&t=h&hl=en-GB&gl=GB&mapclient=embed&q=Sir+Alwyn+Williams+Building+Glasgow+G12+8RZ) of the [School of Computing Science](http://www.gla.ac.uk/schools/computing/contact/).
 
-Email address
+Email Address
 -----
 {% if site.author.email %}
   <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
 {% endif %}
 
-Postal address
+Postal Address
 -----
 
     School of Computing Science

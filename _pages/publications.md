@@ -13,7 +13,7 @@ author_profile: true
 
 You find my publications also [organised by project](/publications-by-project/).
 
-<h3>Year of publication</h3>
+<h3>Year of Publication</h3>
 <ul style="padding-left: 1em;">
 {% for post in site.publications reversed  %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}

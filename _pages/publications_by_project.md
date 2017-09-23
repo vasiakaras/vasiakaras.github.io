@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Publications organised by research project"
+title: "Publications Organised by Research Project"
 permalink: /publications-by-project/
 author_profile: true
 ---
@@ -14,7 +14,7 @@ author_profile: true
 
 You find my publications also [organised by publication date](/publications/).
 
-<h3>Research projects</h3>
+<h3>Research Projects</h3>
 <ul style="padding-left: 2em;">
 {% for project in projects  %}
   {% if project == '' %}
