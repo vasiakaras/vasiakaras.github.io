@@ -3,7 +3,7 @@ title: "Towards Composable GPU Programming: Programming GPUs with Eager Actions 
 collection: talks
 type: "Talk"
 permalink: /talks/2017/EdinburghCpp
-venue: "C++ Edinburgh Meetups"
+venue: "C++ Edinburgh Meetup"
 venue-url: "http://cppedinburgh.uk"
 date: 2017-04-10
 location: "Edinburgh, UK"

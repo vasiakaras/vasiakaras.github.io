@@ -9,4 +9,5 @@ proceedings: "Proceedings of the 6th International Workshop on Adaptive Self-tun
 paperurl: '/files/publications/2016/ADAPT-2016.pdf'
 dblp: 'journals/corr/CumminsPSL15'
 google-scholar-url: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:hqOjcs7Dif8C"
+projects: ['SkelCL']
 ---

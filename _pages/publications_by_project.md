@@ -20,7 +20,7 @@ You find my publications also [organised by publication date](/publications/).
   {% if project == '' %}
     {% continue %}
   {% endif %}
-<li style="margin-bottom: 0em;"><strong><a href="#{{project}}">{{project}}</a></strong></li>
+<li style="margin-bottom: 0em;"><strong><a href="#{{project | downcase | replace:' ','-'}}">{{project}}</a></strong></li>
 {% endfor %}
 </ul>
 
