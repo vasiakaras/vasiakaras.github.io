@@ -22,6 +22,12 @@ I am interested in all aspects of parallel programming.
 Particular research interests of mine include _structured parallel programming_, _heterogeneous and GPU computing_, and _novel compilation techniques for high-level languages_.
 
 
+PhD opportunities
+------
+I am currently looking for talented students with a strong interest in practical and/or theoretical aspects of parallel programming for pursuing a PhD.
+If your are interested, please drop me an [email](contact) describing your experiences and research interests.
+
+
 ------
 
 You can read more about my [research](research), browse my [publications](publications) and [talks](talks), <!-- find information about [teaching](teaching), --> read my [CV](cv) or find out how to [contact](contact) me.
