@@ -13,6 +13,10 @@ Program Committee Member
 - [9th International Symposium on High-Level Parallel Programming and Applications, HLPP 2016](http://hlpp2016.uni-muenster.de/)
 - [16th IEEE International Conference on Scalable Computing and Communications, ScalCom 2016](http://scalcom2016.sciencesconf.org/)
 
+External Reviewing Committee Member
+-----
+
+ - [2018 International Symposium on Code Generation and Optimization, CGO 2018](http://cgo.org/cgo2018/)
 
 Organisation Committee Member
 -----
