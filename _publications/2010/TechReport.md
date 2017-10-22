@@ -1,6 +1,7 @@
 ---
 title: "SkelCL - A Portable Multi-GPU Skeleton Library"
 collection: publications
+type: "Technical Report"
 date: 2010-10-04
 authors: "Michel Steuwer, Philipp Kegel, and Sergei Gorlatch"
 venue: "Technical Report, University of Münster"

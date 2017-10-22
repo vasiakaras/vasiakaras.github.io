@@ -1,6 +1,7 @@
 ---
 title: "Performance Portable GPU Code Generation for Matrix Multiplication"
 collection: publications
+type: "Workshop Paper"
 date: 2016-03-09
 authors: "Toomas Remmelg, Thibaut Lutz, Michel Steuwer, and Christophe Dubach"
 venue: "9th Annual Workshop on General Purpose Processing using Graphics Processing Unit, GPGPU @ PPoPP 2016"

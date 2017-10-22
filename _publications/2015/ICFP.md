@@ -1,6 +1,7 @@
 ---
 title: "Generating Performance Portable Code using Rewrite Rules<br/> <span style=\"font-size: 75%;\">From High-Level Functional Expressions to High-Performance OpenCL Code</span>"
 collection: publications
+type: "Conference Paper"
 date: 2015-08-31
 authors: "Michel Steuwer, Christian Fensch, Sam Lindley, and Christophe Dubach"
 venue: "2015 International Conference on Functional Programming (ICFP)"

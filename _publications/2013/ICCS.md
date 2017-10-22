@@ -1,6 +1,7 @@
 ---
 title: "High-Level Programming for Medical Imaging on Multi-GPU Systems Using the SkelCL Library"
 collection: publications
+type: "Conference Paper"
 date: 2013-06-05
 authors: "Michel Steuwer and Sergei Gorlatch"
 venue: "International Conference on Computational Science, ICCS 2013"

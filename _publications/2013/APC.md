@@ -1,6 +1,7 @@
 ---
 title: "Uniform High-Level Programming of Many-Core and Multi-GPU Systems"
 collection: publications
+type: "Book Chapter"
 date: 2012-06-25
 authors: "Philipp Kegel, Michel Steuwer, Sergei Gorlatch"
 venue: "High Performance Computing Workshop, Cetraro"

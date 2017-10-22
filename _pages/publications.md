@@ -11,7 +11,7 @@ author_profile: true
   You can also find my publications on {% if site.author.dblp %} <a href="{{site.author.dblp}}">my dblp profile</a> {% endif %} {% if site.author.googlescholar and site.author.dblp %} and {% endif %} {% if site.author.googlescholar %} <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>{% endif %}.
  {% endif %}
 
-You find my publications also [organised by project](/publications-by-project/).
+You find my publications also [organised by project](/publications-by-project/) and [organised by type](/publications-by-type/).
 
 <h3>Year of Publication</h3>
 <ul style="padding-left: 1em;">

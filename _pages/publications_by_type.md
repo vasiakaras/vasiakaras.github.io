@@ -1,41 +1,41 @@
 ---
 layout: single
-title: "Publications Organised by Research Project"
-permalink: /publications-by-project/
+title: "Publications Organised by Type"
+permalink: /publications-by-type/
 author_profile: true
 ---
 {% include base_path %}
 
-{% assign projects =  site.publications | map: 'projects' | join: ','  | split: ',' | uniq | sort %}
+{% assign types =  "Journal Article, Conference Paper, Workshop Paper, Book Chapter, Thesis, Technical Report" | split: ", " %}
 
  {% if site.author.googlescholar or site.author.dblp %} 
   You can also find my publications on {% if site.author.dblp %} <a href="{{site.author.dblp}}">my dblp profile</a> {% endif %} {% if site.author.googlescholar and site.author.dblp %} and {% endif %} {% if site.author.googlescholar %} <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>{% endif %}.
  {% endif %} 
 
-You find my publications also [organised by publication date](/publications/) and [organised by type](/publications-by-type/).
+You find my publications also [organised by publication date](/publications/) and [organised by project](/publications-by-project/).
 
-<h3>Research Projects</h3>
+<h3>Publication Type</h3>
 <ul style="padding-left: 2em;">
-{% for project in projects  %}
-  {% if project == '' %}
+{% for type in types  %}
+  {% if type == '' %}
     {% continue %}
   {% endif %}
-<li style="margin-bottom: 0em;"><strong><a href="#{{project | downcase | replace:' ','-'}}">{{project}}</a></strong></li>
+<li style="margin-bottom: 0em;"><strong><a href="#{{type | downcase | replace:' ','-'}}">{{type}}{% if type != 'Thesis' %}s{% endif %}</a></strong></li>
 {% endfor %}
 </ul>
 
-{% for project in projects %}
-  {% if project == '' %}
+{% for type in types %}
+  {% if type == '' %}
     {% continue %}
   {% endif %}
-  <h2 id="{{project | downcase | replace:' ','-'}}">{{ project }}</h2>
+  <h2 id="{{type | downcase | replace:' ','-'}}">{{type}}{% if type != 'Thesis' %}s{% endif %}</h2>
   <ul>
 
 {% assign last_year = '' %}
 {% assign need_to_close_ul = false %}
 
 {% for post in site.publications reversed  %}
-{% if post.projects contains project %}
+{% if post.type contains type %}
   {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% if year != last_year %}
     {% if last_year != '' %}

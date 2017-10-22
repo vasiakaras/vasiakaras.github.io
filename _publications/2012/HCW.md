@@ -1,6 +1,7 @@
 ---
 title: "dOpenCL: Towards a Uniform Programming Approach for Distributed Heterogeneous Multi-/Many-Core Systems"
 collection: publications
+type: "Workshop Paper"
 date: 2012-05-21
 authors: "Philipp Kegel, Michel Steuwer, and Sergei Gorlatch"
 venue: "21st International Heterogeneity in Computing Workshop (HCW) @ IPDPS"

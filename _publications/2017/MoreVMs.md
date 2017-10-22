@@ -1,6 +1,7 @@
 ---
 title: "OpenCL JIT Compilation for Dynamic Programming Languages"
 collection: publications
+type: "Workshop Paper"
 date: 2017-04-03
 authors: "Juan Fumero, Michel Steuwer, Lukas Stadler, and Christophe Dubach"
 venue: "2017 Workshop on Modern Language Runtimes, Ecosystems, and VMs (MoreVMs)"

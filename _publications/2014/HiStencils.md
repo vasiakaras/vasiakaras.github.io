@@ -1,6 +1,7 @@
 ---
 title: "Extending the SkelCL Library for Stencil Computations on Multi-GPU Systems"
 collection: publications
+type: "Workshop Paper"
 date: 2014-01-21
 authors: "Stefan Breuer, Michel Steuwer, and Sergei Gorlatch"
 venue: "1st International Workshop on High-Performance Stencil Computations (HiStencils) @ HiPEAC"

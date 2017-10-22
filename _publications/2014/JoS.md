@@ -1,6 +1,7 @@
 ---
 title: "SkelCL: A high-level extension of OpenCL for multi-GPU systems"
 collection: publications
+type: "Journal Article"
 date: 2014-07-01
 authors: "Michel Steuwer and Sergei Gorlatch"
 venue: "Journal of Supercomputing, Volume 69, Number 1, July 2014"

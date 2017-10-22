@@ -1,6 +1,7 @@
 ---
 title: "SkelCL: Enhancing OpenCL for High-Level Programming of Multi-GPU Systems"
 collection: publications
+type: "Conference Paper"
 date: 2013-09-30
 authors: "Michel Steuwer and Sergei Gorlatch"
 venue: "Parallel Computing Technologies - 12th International Conference, PaCT 2013"

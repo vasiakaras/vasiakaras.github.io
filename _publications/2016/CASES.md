@@ -1,6 +1,7 @@
 ---
 title: "Matrix Multiplication Beyond Auto-Tuning: Rewrite-based GPU Code Generation"
 collection: publications
+type: "Conference Paper"
 date: 2016-10-01
 authors: "Michel Steuwer, Toomas Remmelg, and Christophe Dubach"
 venue: "2016 International Conference on Compilers, Architecture and Synthesis for Embedded Systems (CASES)"

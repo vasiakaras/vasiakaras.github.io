@@ -1,6 +1,7 @@
 ---
 title: "Just-In-Time GPU Compilation for Interpreted Languages with Partial Evaluation"
 collection: publications
+type: "Conference Paper"
 date: 2017-04-08
 authors: "Juan Fumero, Michel Steuwer, Lukas Stadler, and Christophe Dubach"
 venue: "2017 International Conference on Virtual Execution Environments (VEE)"

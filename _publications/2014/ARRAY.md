@@ -1,6 +1,7 @@
 ---
 title: "A Composable Array Function Interface for Heterogeneous Computing in Java"
 collection: publications
+type: "Workshop Paper"
 date: 2014-06-09
 authors: "Juan José Fumero, Michel Steuwer, and Christophe Dubach"
 venue: "ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY) @ PLDI"

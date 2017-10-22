@@ -1,6 +1,7 @@
 ---
 title: "Towards High-Level Programming for Systems with Many Cores"
 collection: publications
+type: "Conference Paper"
 date: 2014-06-24
 authors: "Sergei Gorlatch and Michel Steuwer"
 venue: "9th International Ershov Informatics Conference, PSI 2014"

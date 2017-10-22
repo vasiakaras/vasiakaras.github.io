@@ -1,6 +1,7 @@
 ---
 title: "gCUP: rapid GPU-based HIV-1 co-receptor usage prediction for next-generation sequencing"
 collection: publications
+type: "Journal Article"
 date: 2014-11-01
 authors: "Michael Olejnik, Michel Steuwer, Sergei Gorlatch, and Dominik Heider"
 venue: "Bioinformatics, Volume 30, Number 22, November 2014"

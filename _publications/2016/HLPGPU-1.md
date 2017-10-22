@@ -1,6 +1,7 @@
 ---
 title: "Compositional Compilation for Sparse, Irregular Data Parallelism"
 collection: publications
+type: "Workshop Paper"
 date: 2016-01-19
 authors: "Adam Harries, Michel Steuwer, Murray Cole, Alan Gray, and Christophe Dubach"
 venue: "HLPGPU 2016: High-Level Programming for Heterogeneous and Hierarchical Parallel Systems @ HiPEAC 2016"

@@ -1,6 +1,7 @@
 ---
 title: "A Transformation-Based Approach to Developing High-Performance GPU Programs"
 collection: publications
+type: "Conference Paper"
 date: 2017-06-26
 authors: "Bastian Hagedorn, Michel Steuwer, and Sergei Gorlatch"
 venue: "2017 Ershov Informatics Conference (the PSI Conference Series, 11th edition)"

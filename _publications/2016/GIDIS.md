@@ -1,6 +1,7 @@
 ---
 title: "Verbesserung der Programmierbarkeit und Performance-Portabilität von Manycore-Prozessoren (Improving the Programmability and Performance Portability on Many-Core Processors)"
 collection: publications
+type: "Book Chapter"
 date: 2016-05-01
 authors: "Michel Steuwer"
 venue: "Ausgezeichnete Informatikdissertationen (Distinguished Disserations in Informatics) 2015"

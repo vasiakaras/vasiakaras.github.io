@@ -1,6 +1,7 @@
 ---
 title: "Using the SkelCL Library for High-Level GPU Programming of 2D Applications"
 collection: publications
+type: "Workshop Paper"
 date: 2012-08-27
 authors: "Michel Steuwer, Sergei Gorlatch, Matthias Buß, and Stefan Breuer"
 venue: "2nd Open ParaPhrase Workshop @ Euro-Par"

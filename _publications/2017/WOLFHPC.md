@@ -1,6 +1,7 @@
 ---
 title: "A Modular Approach to Performance, Portability and Productivity for 3D Wave Models"
 collection: publications
+type: "Workshop Paper"
 date: 2017-11-17
 authors: "Larisa Stoltzfus, Christophe Dubach, Michel Steuwer, Alan Gray, and Stefan Bilbao"
 venue: "2017 Workshop on Domain-Specific Languages and High-Level Frameworks for High Performance Computing (WOLFHPC)"

@@ -1,6 +1,7 @@
 ---
 title: "Towards Composable GPU Programming: Programming GPUs with Eager Actions and Lazy Views"
 collection: publications
+type: "Workshop Paper"
 date: 2017-02-05
 authors: "Michael Haidl, Michel Steuwer, Hendrik Dirks, Tim Hummernbrum, Sergei Gorlatch"
 venue: " 2017 International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM) @ PPoPP"

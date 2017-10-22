@@ -1,6 +1,7 @@
 ---
 title: "Runtime Code Generation and Data Management for Heterogeneous Computing in Java"
 collection: publications
+type: "Conference Paper"
 date: 2015-09-08
 authors: "Juan José Fumero, Toomas Remmelg, Michel Steuwer, and Christophe Dubach"
 venue: "2015 International Conference on Principles and Practices of Programming on The Java Platform (PPPJ)"

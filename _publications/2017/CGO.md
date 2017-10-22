@@ -1,6 +1,7 @@
 ---
 title: "Lift: A Functional Data-Parallel IR for High-Performance GPU Code Generation"
 collection: publications
+type: "Conference Paper"
 date: 2017-02-04
 authors: "Michel Steuwer, Toomas Remmelg, and Christophe Dubach"
 venue: "2017 International Symposium on Code Generation and Optimization (CGO)"

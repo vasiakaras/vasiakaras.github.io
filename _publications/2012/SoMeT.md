@@ -1,6 +1,7 @@
 ---
 title: "A High-Level Programming Approach for Distributed Systems with Accelerators"
 collection: publications
+type: "Conference Paper"
 date: 2012-09-26
 authors: "Michel Steuwer, Philipp Kegel, and Seregi Gorlatch"
 venue: "11th New Trends in Software Methodologies, Tools and Techniques (SoMeT)"

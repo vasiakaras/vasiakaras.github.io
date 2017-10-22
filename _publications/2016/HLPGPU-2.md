@@ -1,6 +1,7 @@
 ---
 title: "Towards Collaborative Performance Tuning of Algorithmic Skeletons"
 collection: publications
+type: "Workshop Paper"
 date: 2016-01-19
 authors: "Chris Cummins, Pavlos Petoumenos, Michel Steuwer, and Hugh Leather"
 venue: "HLPGPU 2016: High-Level Programming for Heterogeneous and Hierarchical Parallel Systems @ HiPEAC 2016"

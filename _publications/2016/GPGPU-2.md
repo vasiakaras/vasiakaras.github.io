@@ -1,6 +1,7 @@
 ---
 title: "Multi-Stage Programming for GPUs in Modern C++ using PACXX"
 collection: publications
+type: "Workshop Paper"
 date: 2016-03-09
 authors: "Michael Haidl, Michel Steuwer, Tim Humernbrum, and Sergei Gorlatch"
 venue: "9th Annual Workshop on General Purpose Processing using Graphics Processing Unit, GPGPU @ PPoPP 2016"

@@ -1,6 +1,7 @@
 ---
 title: "Patterns and Rewrite Rules for Systematic Code Generation<br/> <span style=\"font-size: 75%;\">From High-Level Functional Patterns to High-Performance Opencl Code</span>"
 collection: publications
+type: "Technical Report"
 date: 2015-02-09
 authors: "Michel Steuwer, Christian Fensch, and Christophe Dubach"
 venue: "Technical Report"

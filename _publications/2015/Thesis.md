@@ -1,6 +1,7 @@
 ---
 title: "Improving Programmability and Performance Portability on Many-Core Processors"
 collection: publications
+type: "Thesis"
 date: 2015-07-01
 authors: "Michel Steuwer"
 venue: "Ph.D. Thesis, University of Münster, Germany, Supervised by Sergei Gorlatch"

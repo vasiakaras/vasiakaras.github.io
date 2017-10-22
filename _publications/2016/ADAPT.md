@@ -1,6 +1,7 @@
 ---
 title: "Autotuning OpenCL Workgroup Size for Stencil Patterns"
 collection: publications
+type: "Workshop Paper"
 date: 2016-01-18
 authors: "Chris Cummins, Pavlos Petoumenos, Michel Steuwer, and Hugh Leather"
 venue: "6th International Workshop on Adaptive Self-tuning Computing Systems (ADAPT) @ HiPEAC 2016"

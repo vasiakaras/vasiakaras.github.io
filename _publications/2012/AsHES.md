@@ -1,6 +1,7 @@
 ---
 title: "Towards High-Level Programming of Multi-GPU Systems Using the SkelCL Library"
 collection: publications
+type: "Workshop Paper"
 date: 2012-05-21
 authors: "Michel Steuwer, Philipp Kegel, and Sergei Gorlatch"
 venue: "Second International Workshop on Accelerators and Hybrid Exasclae Systems (AsHES) @ IPDPS"

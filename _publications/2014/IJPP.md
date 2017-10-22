@@ -1,6 +1,7 @@
 ---
 title: "Introducing and Implementing the Allpairs Skeleton for Programming Multi-GPU Systems"
 collection: publications
+type: "Journal Article"
 date: 2014-08-01
 authors: "Michel Steuwer, Malte Friese, Sebastian Albers, and Sergei Gorlatch"
 venue: "International Journal of Parallel Programming, Volume 42, Number 4, August 2014"
