@@ -9,16 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+------
+
 Dr. Michel Steuwer
 
 Professional Experience
 ------
+
+------
+
 * since August 2017: __Lecturer (Assistant Professor)__, _University of Glasgow_, UK.
 * 2014 - 2017: __Postdoctoral Research Associate__, _The University of Edinburgh_, UK.
 * 2010 - 2014: __Research Assosiate__, _University of Münster_, Germany.
 
 Education
 ------
+
+------
+
 * __Ph.D in Computer Science__, _University of Münster_, Germany
   * Supervisor: Prof. Sergei Gorlatch
   * Thesis: _Improving Programmability and Performance Portability on Many-Core Processors_
@@ -30,18 +38,12 @@ Education
 
 Publications
 ------
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+------
+{% include publications_list_by_type %}
+
 Talks
 ------
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Teaching
+
 ------
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+{% include talks_list %}

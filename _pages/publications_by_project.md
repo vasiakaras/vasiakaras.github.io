@@ -6,11 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
-{% assign projects =  site.publications | map: 'projects' | join: ','  | split: ',' | uniq | sort %}
+{% assign projects =  "Lift, PACXX, GPU Compilation for Interpreted Languages, Marawacc, SkelCL, dOpenCL" | split: ", " %}
 
  {% if site.author.googlescholar or site.author.dblp %} 
   You can also find my publications on {% if site.author.dblp %} <a href="{{site.author.dblp}}">my dblp profile</a> {% endif %} {% if site.author.googlescholar and site.author.dblp %} and {% endif %} {% if site.author.googlescholar %} <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>{% endif %}.
- {% endif %} 
+ {% endif %}
 
 You find my publications also [organised by publication date](/publications/) and [organised by type](/publications-by-type/).
 
