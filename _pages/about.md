@@ -26,10 +26,10 @@ What is parallel programming and why is it important?
 ------
 Computers have become more and more powerful by increasingly complex designs where many computations can happen at the same time in parallel.
 Virtually every computer from the tiny once in your smartphone to the extreme large once filling entire data centres are nowadays _parallel_.
-Programming these computers and making efficient use of them is much more difficult than it is for traditional computers.
+Programming these computers and making efficient use of them is much more difficult than it was for traditional computers.
 
 I am researching methodologies and techniques to _simplify_ the development of software which makes _efficient_ use of the computer hardware.
-This research is fundamental for our ability to tackle many important complex applications ranging from the artificial intelligence driving our cars and robots to complex scientific simulations enhancing our understanding of climate change.
+This research is fundamental for our ability to tackle many important and complex applications ranging from the artificial intelligence which makes your smartphone _smart_ and which will drive our cars up to complex scientific simulations which enhance our understanding of climate change.
 
 
 
