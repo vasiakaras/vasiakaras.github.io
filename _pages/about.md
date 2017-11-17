@@ -19,7 +19,7 @@ Research Focus
 ------
 
 I am interested in all aspects of parallel programming.
-Particular research interests of mine include _structured parallel programming_, _heterogeneous and GPU computing_, and _novel compilation techniques for high-level languages_.
+Particular research interests of mine include _performance portability_, _structured parallel programming_, _heterogeneous and GPU computing_, and _novel compilation techniques for high-level languages_.
 
 
 What is parallel programming and why is it important?
