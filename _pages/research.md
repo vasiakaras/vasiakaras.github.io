@@ -12,11 +12,11 @@ author_profile: true
 
 - **[PACXX](http://pacxx.github.io/page/)** allows programming of accelerators with modern C++.
   PACXX is developed by [Michael Haidl](http://www.uni-muenster.de/PVS/en/mitarbeiter/haidl.shtml) at the University of Münster.
-  In a series of collaborative [publications](/publications-by-project/#pacxx) we explore [challenges of heterogeneous compiler implementations](/publications/2016/GPGPU-2/) and the [design of modern C++ range-based libraries](/publications/2017/PMAM/) for parallel programming.
+  In a series of collaborative [publications](/publications-by-project/#pacxx) we explore [challenges of heterogeneous compiler implementations](/publications/2016/GPGPU-2/) and the [design of modern C++ range-based libraries](/publications/2017/PMAM/) for parallel programming. PACXX is open source software available on [Github](https://github.com/pacxx/pacxx-llvm).
 
 - **[GPU Compilation for Interpreted Languages](/publications/2017/VEE/)** is the one of the first solutions for compiling a dynamic interpreted programming language -- namely R -- to GPU code.
   The generation of GPU code happens at runtime after crucial information of the program, such as data types, have been observed by profiling.
-  [Juan Fumero](http://homepages.inf.ed.ac.uk/s1369892/) has developed our implementation which is described in our recent [paper](/publications/2017/VEE/).
+  [Juan Fumero](http://homepages.inf.ed.ac.uk/s1369892/) has developed our implementation which is described in our recent [paper](/publications/2017/VEE/) and is available on [Bitbucket](https://bitbucket.org/juanfumero/fastr-gpu).
 
 - **[Marawacc](/publications-by-project/#marawacc)** is a solution for GPU programming from Java.
   Marawacc combines a library interface similar to the stream API from Java 8 and a compiler which generates OpenCL code from Java byte code at runtime.
