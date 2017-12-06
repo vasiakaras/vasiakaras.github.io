@@ -15,6 +15,13 @@ Before joining Glasgow I was a postdoctoral researcher at the [School of Informa
 I received my Ph.D. from the [University of Münster](http://www.wwu.de/en) in Germany.
 
 
+
+PhD opportunities
+------
+**I am currently looking for talented students with a strong interest in practical and/or theoretical aspects of parallel programming for pursuing a PhD.**
+If your are interested, please drop me an [email](contact) describing your experiences and research interests.
+
+
 Research Focus
 ------
 
@@ -30,13 +37,6 @@ Programming these computers and making efficient use of them is much more diffic
 
 I am researching methodologies and techniques to _simplify_ the development of software which makes _efficient_ use of the computer hardware.
 This research is fundamental for our ability to tackle many important and complex applications ranging from the artificial intelligence which makes your smartphone _smart_ and which will drive our cars up to complex scientific simulations which enhance our understanding of climate change.
-
-
-
-PhD opportunities
-------
-I am currently looking for talented students with a strong interest in practical and/or theoretical aspects of parallel programming for pursuing a PhD.
-If your are interested, please drop me an [email](contact) describing your experiences and research interests.
 
 
 ------

@@ -100,7 +100,11 @@ Research Community Activities
 
 ### Program Committees
 
+* 19th Annual ACM SIGPLAN/SIGBED Conference on Languages, Compilers, Tools and Theory for Embedded Systems (LCTES 2018)
+* 2nd Workshop on Distributed and Heterogeneous Programming in C/C++ (DHPCC++ 2018)
 * 10th International Symposium on High-Level Parallel Programming and Applications (HLPP 2017)
+* 1st Workshop on Distributed and Heterogeneous Programming in C/C++ (DHPCC++ 2017)
+* 2nd SYCL Programming Workshop (SYCL 2017)
 * 9th International Symposium on High-Level Parallel Programming and Applications (HLPP 2016)
 * 16th IEEE International Conference on Scalable Computing and Communications (ScalCom 2016)
 
@@ -122,6 +126,7 @@ Reviewer for journals:
 
 External reviewer for conferences:
 
+* International Conference on Compiler Construction (CC)
 * International Symposium on Code Generation and Optimization (CGO)
 * International Conference on Parallel and Distributed Computing (Euro-Par)
 * European MPI User Group conference (EuroMPI)
