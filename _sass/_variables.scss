@@ -57,8 +57,13 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
+$university-blue            : #003865;
+$cobalt                     : #0075B0;
+$sky-blue                   : #005398;
+
 $body-color                 : #fff;
 $background-color           : #fff;
+$masthead-background-color  : $university-blue;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
@@ -68,8 +73,7 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-//$info-color                 : #418aa0;
-$info-color                 : #0075B0;
+$info-color                 : $sky-blue;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -98,8 +102,8 @@ $xing-color                 : #006567;
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color        : mix(#000, #fff, 10%);
+$masthead-link-color-hover  : #fff;
 
 
 /*
