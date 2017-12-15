@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 I am a lecturer (assistant professor) in the [School of Computing Science](http://www.gla.ac.uk/schools/computing/) at the [University of Glasgow](http://www.glasgow.ac.uk/) in Scotland.
-I am a member of the the [GLAsgow Systems Section (GLASS)](http://www.gla.ac.uk/schools/computing/research/researchoverview/systems-section/), the [Glasgow Parallelism Group (GPG)](http://www.dcs.gla.ac.uk/research/gpg/), and a visiting member of the [Compiler and Architecture Design Group (CArD)](http://www.icsa.inf.ed.ac.uk/compilers/) at the University of Edinburgh.
+I am a member of the the [GLAsgow Systems Section (GLASS)](http://www.gla.ac.uk/schools/computing/research/researchoverview/systems-section/), the [Glasgow Parallelism Group (GPG)](http://www.dcs.gla.ac.uk/research/gpg/), an associate member of the [Formal Analysis, Theory and Algorithms (FATA)](https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/) section, and a visiting member of the [Compiler and Architecture Design Group (CArD)](http://www.icsa.inf.ed.ac.uk/compilers/) at the University of Edinburgh.
 
 Before joining Glasgow I was a postdoctoral researcher at the [School of Informatics](http://www.inf.ed.ac.uk/) at the [University of Edinburgh](http://www.ed.ac.uk/).
-I received my Ph.D. from the [University of Münster](http://www.wwu.de/en) in Germany.
+I received my PhD from the [University of Münster](http://www.wwu.de/en) in Germany.
 
 
 
