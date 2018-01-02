@@ -11,7 +11,9 @@ redirect_from:
 
 ------
 
-Dr. Michel Steuwer
+<a href="https://github.com/michel-steuwer/cv/raw/master/latex/michel_steuwer.pdf" style="text-decoration: none;"><span class="fa-stack fa-1x" style="margin-right:1em"><i class="fa fa-file fa-2x"></i></span>Curriculum Vitae as PDF</a>
+
+<h1 style="text-align: center; margin-top: 2em;">Dr. Michel Steuwer</h1>
 
 Professional Experience
 ------
