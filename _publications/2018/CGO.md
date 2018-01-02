@@ -16,3 +16,6 @@ projects: ['Lift']
 <span class="fa-stack fa-1x"><i class="fa fa-bar-chart fa-stack-1x fa-flip-horizontal" style="left:-.1em;top:-.1em"></i>
 <span class="fa fa-stack-2x"><i class="fa fa-search" aria-hidden="true"></i></span></span>
 Software Artifact for independent evaluation of the performance results</a>
+
+
+<a href="http://cgo.org/cgo2018/program/" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="fa fa-trophy fa-2x"></i></span>Best Paper Finalist</a>
