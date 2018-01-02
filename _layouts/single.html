@@ -35,7 +35,15 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>
+            {{ page.year }} {{ page.type }}<br/>
+            <i>{{ page.venue }}</i>
+          </p>
+          <p>
+            {% if page.moodle-id %}
+            <a href="http://moodle2.gla.ac.uk/course/view.php?id={{ page.moodle-id }}" style="text-decoration: none;"><span class="fa-stack fa-1x" style="margin-right:1em;"><i class="fa fa-graduation-cap fa-2x"></i></span>University of Glasgow Moodle Course</a>
+            {% endif %}
+          </p>
         {% elsif page.collection == 'publications' %}
           <p>
             <strong style="margin-right: 0.5em;"><i class="fa fa-fw fa-users" aria-hidden="true"></i></strong>{{ page.authors }}
