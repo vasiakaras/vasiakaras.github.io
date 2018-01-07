@@ -1,0 +1,1 @@
+{% assign types =  "Organisation Committee Member, Program Committee Member, Artifact Evaluation Committee Member, External Reviewing Committee Member" | split: ", " %}

@@ -94,27 +94,8 @@ Research Community Activities
 * I co-organised the seminar of the Programming Language Research Programme at the School of Informatics in Edinburgh together with James Cheney, an series of talks covering a broad range of topics related to programming languages.
 * I organised the _Humble C++ Programmer Group_, a group discussing practical programming topics in C++ targeted at PhD students to improve their coding skills.
 
-### Organisation Committees
-
-* Artifact Evaluation Chair of the 16th International Symposium on Code Generation and Optimization, CGO 2018.
-* Web & Publicity Chair of the 27th International Conference on Compiler Construction, CC 2018.
-* Local Organisation Chair of the 7th UK Many-Core Developer Conference, UKMAC 2017.
-
-### Program Committees
-
-* 19th Annual ACM SIGPLAN/SIGBED Conference on Languages, Compilers, Tools and Theory for Embedded Systems (LCTES 2018)
-* 2nd Workshop on Distributed and Heterogeneous Programming in C/C++ (DHPCC++ 2018)
-* 10th International Symposium on High-Level Parallel Programming and Applications (HLPP 2017)
-* 1st Workshop on Distributed and Heterogeneous Programming in C/C++ (DHPCC++ 2017)
-* 2nd SYCL Programming Workshop (SYCL 2017)
-* 9th International Symposium on High-Level Parallel Programming and Applications (HLPP 2016)
-* 16th IEEE International Conference on Scalable Computing and Communications (ScalCom 2016)
-
-### Artifact Evaluation Committees
-
-* 22th ACM SIGPLAN International Conference on Functional Programming (ICFP 2017)
-* 15th International Symposium on Code Generation and Optimization (CGO 2017)
-* 25th International Conference on Parallel Architectures and Compilation Techniques (PACT 2016)
+------
+{% include committees %}
 
 ### Reviewing
 
