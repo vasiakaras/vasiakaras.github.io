@@ -7,5 +7,7 @@ authors: "Philip Ginsbach, Toomas Remmelg, Michel Steuwer, Bruno Bodin, Christop
 venue: "23rd International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)"
 venue-url: "http://www.asplos2018.org"
 proceedings: "Proceedings of the Twenty-Third International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2018, Williamsburg, VA, USA, March 24-28, 2018."
+paperurl: '/files/publications/2018/ASPLOS-2018.pdf'
+bibtexurl: '/files/publications/2018/ASPLOS-2018.bib'
 projects: ['Lift']
 ---
