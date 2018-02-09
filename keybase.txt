@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/michelsteuwer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://michel-steuwer.github.io
+  * I am michelsteuwer (https://keybase.io/michelsteuwer) on keybase.
+  * I have a public key ASClq9CkKkrkwZ3c309gumosurMzoFFKWOyQvgcFZ0k7Awo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a5abd0a42a4ae4c19ddcdf4f60ba6a2cbab333a0514a58ec90be070567493b030a",
+      "host": "keybase.io",
+      "kid": "0120a5abd0a42a4ae4c19ddcdf4f60ba6a2cbab333a0514a58ec90be070567493b030a",
+      "uid": "d98842da71c4cb8cd4737dccc10bf019",
+      "username": "michelsteuwer"
+    },
+    "merkle_root": {
+      "ctime": 1518179258,
+      "hash": "1046d704472ce5fc756d6b4a7871835e0f4753c7ee2cd6403caa032fc2958346229d1bd91c9f4d1d6729f691b24a91ff456d7fabddd8150e14b9a3fbb415e30c",
+      "hash_meta": "21b476dd40018e5e38f2e29ad466f538db85efd6aff5995c781d4f39e1ec32d1",
+      "seqno": 2057627
+    },
+    "service": {
+      "hostname": "michel-steuwer.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.40"
+  },
+  "ctime": 1518179293,
+  "expire_in": 504576000,
+  "prev": "13dcfbad5cdd36663c72709da74a5ad72980221376f737f83046d55fbf11e068",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpavQpCpK5MGd3N9PYLpqLLqzM6BRSljskL4HBWdJOwMKp3BheWxvYWTFA1V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTVhYmQwYTQyYTRhZTRjMTlkZGNkZjRmNjBiYTZhMmNiYWIzMzNhMDUxNGE1OGVjOTBiZTA3MDU2NzQ5M2IwMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYTVhYmQwYTQyYTRhZTRjMTlkZGNkZjRmNjBiYTZhMmNiYWIzMzNhMDUxNGE1OGVjOTBiZTA3MDU2NzQ5M2IwMzBhIiwidWlkIjoiZDk4ODQyZGE3MWM0Y2I4Y2Q0NzM3ZGNjYzEwYmYwMTkiLCJ1c2VybmFtZSI6Im1pY2hlbHN0ZXV3ZXIifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTgxNzkyNTgsImhhc2giOiIxMDQ2ZDcwNDQ3MmNlNWZjNzU2ZDZiNGE3ODcxODM1ZTBmNDc1M2M3ZWUyY2Q2NDAzY2FhMDMyZmMyOTU4MzQ2MjI5ZDFiZDkxYzlmNGQxZDY3MjlmNjkxYjI0YTkxZmY0NTZkN2ZhYmRkZDgxNTBlMTRiOWEzZmJiNDE1ZTMwYyIsImhhc2hfbWV0YSI6IjIxYjQ3NmRkNDAwMThlNWUzOGYyZTI5YWQ0NjZmNTM4ZGI4NWVmZDZhZmY1OTk1Yzc4MWQ0ZjM5ZTFlYzMyZDEiLCJzZXFubyI6MjA1NzYyN30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtaWNoZWwtc3RldXdlci5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40MCJ9LCJjdGltZSI6MTUxODE3OTI5MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIxM2RjZmJhZDVjZGQzNjY2M2M3MjcwOWRhNzRhNWFkNzI5ODAyMjEzNzZmNzM3ZjgzMDQ2ZDU1ZmJmMTFlMDY4Iiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAAt8bDdoHixbafTIYgwjItono8cEUPqkXbdGJwd2cLM/5Zl09L0SuEqYCGMwIIXcL4No/giRpQeVTZCqJ4ma8BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEczIw8lAaeRRKr/N52wTKE7yEB4KIZzi8eBCUUyKZk2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/michelsteuwer
+
+==================================================================
