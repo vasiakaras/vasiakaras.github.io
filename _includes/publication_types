@@ -1,1 +1,1 @@
-{% assign types =  "Journal Article, Conference Paper, Workshop Paper, Book Chapter, Thesis, Technical Report" | split: ", " %}
+{% assign types =  "Journal Article, Conference Paper, Workshop Paper, Book Chapter, Thesis, Standards Committee Paper, Technical Report" | split: ", " %}
