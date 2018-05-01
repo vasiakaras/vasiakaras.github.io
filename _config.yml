@@ -11,7 +11,7 @@ title                    : "Michel Steuwer"
 title_separator          : "-"
 name                     : &name "Michel Steuwer"
 description              : &description "personal description"
-url                      : https://michel-steuwer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://michel.steuwer.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michel-steuwer/michel-steuwer.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,18 +80,18 @@ analytics:
 author:
   name             : "Michel Steuwer"
   avatar           : "profile.jpg"
-  bio              : "I am a lecturer (assistant professor) in the <a href=\"http://www.gla.ac.uk/schools/computing/\" style=\"color: inherit; text-decoration: none;\">School of Computing Science</a> at the <a href=\"http://www.glasgow.ac.uk\"  style=\"color: inherit; text-decoration: none;\">University of Glasgow</a>."
+  bio              : "I am a lecturer (assistant professor) in the <a href=\"https://www.gla.ac.uk/schools/computing/\" style=\"color: inherit; text-decoration: none;\">School of Computing Science</a> at the <a href=\"http://www.glasgow.ac.uk\"  style=\"color: inherit; text-decoration: none;\">University of Glasgow</a>."
   location         : "Glasgow, Scotland"
   employer         :
   institution      : "University of Glasgow"
-  institution-url  : "http://www.glasgow.ac.uk"
-  googlescholar    : "http://scholar.google.com/citations?user=XdXJRZEAAAAJ"
+  institution-url  : "https://www.gla.ac.uk/"
+  googlescholar    : "https://scholar.google.com/citations?user=XdXJRZEAAAAJ"
   msacademic       : "https://academic.microsoft.com/#/profile/MichelSteuwer"
   email            : "michel.steuwer@glasgow.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
-  dblp             : "http://dblp.uni-trier.de/pers/hd/s/Steuwer:Michel"
+  dblp             : "https://dblp.uni-trier.de/pers/hd/s/Steuwer:Michel"
   dribbble         :
   flickr           :
   facebook         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "michel-steuwer-63882297"
-  orcid            : "http://orcid.org/0000-0001-5048-0741"
+  orcid            : "https://orcid.org/0000-0001-5048-0741"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
