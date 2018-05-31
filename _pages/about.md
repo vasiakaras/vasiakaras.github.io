@@ -18,7 +18,10 @@ I received my PhD from the [University of Münster](http://www.wwu.de/en) in Ger
 
 PhD opportunities
 ------
-**I am currently looking for talented students with a strong interest in practical and/or theoretical aspects of parallel programming for pursuing a PhD.**
+**There is currently a fully funded PhD position open with the 31th of July as deadline.
+More information are available [here](https://www.lift-project.org/phd-glasgow-2018)**
+
+**I am looking for talented students with a strong interest in practical and/or theoretical aspects of parallel programming for pursuing a PhD.**
 If your are interested, please drop me an [email](contact) describing your experiences and research interests.
 
 

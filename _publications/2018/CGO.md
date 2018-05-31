@@ -19,4 +19,4 @@ projects: ['Lift']
 Software Artifact for independent evaluation of the performance results</a>
 
 
-<a href="http://cgo.org/cgo2018/program/" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="fa fa-trophy fa-2x"></i></span><strong>Winner of the Best Paper Award</strong></a>
+<a href="http://cgo.org/cgo2018/" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="fa fa-trophy fa-2x"></i></span><strong>Winner of the Best Paper Award</strong></a>
