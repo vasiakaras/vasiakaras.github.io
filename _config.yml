@@ -173,6 +173,9 @@ kramdown:
 
 # Collections
 collections:
+  people:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -209,6 +212,13 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+  # _people
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: single
       author_profile: true
   # _committees
   - scope:
