@@ -8,7 +8,7 @@ author_profile: true
 - **[Lift](http://www.lift-project.org)** is a project aiming to achieve _performance portability_ across modern parallel architectures. The _Lift compiler_ transforms a program expressed in the high-level  _Lift programming language_ into optimised low-level OpenCL code. In this transformation optimisations are automatically explored using a set of rewrite rules.
   Lift is open source software available on [GitHub](https://github.com/lift-project/lift).
   Lift has been described in multiple research [publications](/publications-lift/).
-  Lift is actively developed by a [research team](http://www.lift-project.org/index.html#team) including currently six PhD students based in Scotland and Germany.
+  Lift is actively developed by a [research team](http://www.lift-project.org/index.html#team) including multiple PhD students based in Scotland and Germany.
 
 - **[PACXX](http://pacxx.github.io/page/)** allows programming of accelerators with modern C++.
   PACXX is developed by [Michael Haidl](http://www.uni-muenster.de/PVS/en/mitarbeiter/haidl.shtml) at the University of Münster.
