@@ -1,36 +1,6 @@
 {% assign people = site.people | group_by: 'type' | reverse | sort: 'start-year' %}
 
-{% assign previousType = "" %}
-
-{% for category in people %}
-
-{% if category.name != previousType %}
-  {% if previousType != "" %}
-    </ul>
-  {% endif %}
-  <h2 id="{{category.name | downcase | replace:' ','-'}}">{{category.name}}</h2>
-  <ul>
-  {% assign previousType = category.name %}
-{% endif %}
-
-{% for person in category.items %}
-
-  <li class="{{ include.type | default: "list" }}__item" style="margin-bottom: -1em;">
-    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-      <p>
-          <a href="{{ person.link }}">
-              <b>{{ person.name }}</b>: <i>{{ person.topic }}</i>
-          </a>
-      </p>
-
-    </article>
-  </li>
-
-{% endfor %}
-
-
-{% if forloop.last == true %}
-  </ul>
-{% endif %}
-
-{% endfor %}
+{% include people-category name="PhD Students" %}
+{% include people-category name="Co-Supervised PhD Students" %}
+{% include people-category name="Former PhD Students" %}
+{% include people-category name="Former Co-Supervised PhD Students" %}
