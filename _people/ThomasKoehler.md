@@ -2,7 +2,7 @@
 collection: people
 type: "PhD Students"
 name: "Thomas Koehler"
-topic: "Lift: A Performance Portable Programming Language for the Applications and Hardware of the Future"
+topic: "Practical development of efficient and portable image processing applications in Lift"
 link: https://bastacyclop.gitlab.io
 start-year: 2018
 picture: "files/people/ThomasKoehler.jpg"
