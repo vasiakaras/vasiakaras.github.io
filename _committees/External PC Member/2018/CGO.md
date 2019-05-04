@@ -1,5 +1,5 @@
 ---
-venue: "16th International Symposium on Code Generation and Optimization"
+venue: "International Symposium on Code Generation and Optimization"
 short_venue: "CGO 2018"
 link: http://cgo.org/cgo2018/
 collection: committees

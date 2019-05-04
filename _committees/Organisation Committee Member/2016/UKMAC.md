@@ -1,5 +1,5 @@
 ---
-venue: "7th UK Many-Core Developer Conference"
+venue: "UK Many-Core Developer Conference"
 short_venue: "UKMAC 2016"
 role: "Local Organisation Chair"
 link: http://conferences.inf.ed.ac.uk/UKMAC2016/
