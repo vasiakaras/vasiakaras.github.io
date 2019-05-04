@@ -1,9 +1,9 @@
 ---
 venue: "International Conference on Compiler Construction"
-short_venue: "CC 2018"
-role: "Web & Publicity Chair"
-link: https://cc-conference.github.io/18/
+short_venue: "CC 2020"
+role: "Artifact Evaluation Co-Chair"
+link: https://cc-conference.github.io/20/
 collection: committees
 type: "Organisation Committee Member"
-year: 2018
+year: 2020
 ---

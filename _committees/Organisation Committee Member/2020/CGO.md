@@ -1,9 +1,9 @@
 ---
 venue: "ACM SIGMICRO/SIGPLAN International Symposium on Code Generation and Optimization"
-short_venue: "CGO 2019"
+short_venue: "CGO 2020"
 role: "Artifact Evaluation Co-Chair"
-link: http://cgo.org/cgo2019/
+link: http://cgo.org/
 collection: committees
 type: "Organisation Committee Member"
-year: 2019
+year: 2020
 ---
