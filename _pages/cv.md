@@ -24,7 +24,7 @@ Professional Experience
 
 * 2014 - 2017: __Postdoctoral Research Associate__, _The University of Edinburgh_, UK.
 
-* 2010 - 2014: __Research Assosiate__, _University of Münster_, Germany.
+* 2010 - 2014: __Research Associate__, _University of Münster_, Germany.
 
 University Education
 ------
