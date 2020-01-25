@@ -10,7 +10,8 @@
     <p>
       <a href="{{ person.link }}">
         <b>{{ person.name }}</b>: <i>{{ person.topic }}</i>
-      </a>
+      </a><br/>
+      <span style="font-size: 90%;">since: {{ person.start-year }}</span>
     </p>
   </div>
   <div style="clear:both;"></div>

@@ -1,6 +1,7 @@
 ---
 collection: people
 type: "Former Co-Supervised PhD Students"
+with: "Sergei Gorlatch"
 name: "Michael Haidl"
 topic: "PACXX: a Unified Programming Model for Programming Accelerators"
 link: https://www.uni-muenster.de/PVS/en/mitarbeiter/haidl.shtml

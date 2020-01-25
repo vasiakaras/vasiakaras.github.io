@@ -1,6 +1,0 @@
-{% assign people = site.people | group_by: 'type' | reverse | sort: 'start-year' %}
-
-{% include people-category name="PhD Students" %}
-{% include people-category name="Co-Supervised PhD Students" %}
-{% include people-category name="Former PhD Students" %}
-{% include people-category name="Former Co-Supervised PhD Students" %}

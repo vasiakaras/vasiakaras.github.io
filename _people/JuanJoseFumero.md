@@ -1,8 +1,9 @@
 ---
 collection: people
 type: "Former Co-Supervised PhD Students"
+with: "Christophe Dubach"
 name: "Juan Jose Fumero"
-topic: "Accelerating interpreted programming languages on GPUs with just-in-time compilation and runtime optimisations"
+topic: "Accelerating Interpreted Programming Languages on GPUs with Just-in-Time Compilation and Runtime Optimisations"
 link: https://snatverk.blogspot.com/
 start-year: 2014
 end-year: 2017
