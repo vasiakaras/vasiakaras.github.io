@@ -6,5 +6,6 @@ date: 2017-10-23
 authors: "Robert Atkey, Michel Steuwer, Sam Lindley, and Christophe Dubach"
 venue: "Technical Report"
 paperurl: '/files/publications/2017/arXiv-2017.pdf'
+dblp: 'journals/corr/abs-1710-08332'
 projects: ['Lift']
 ---
