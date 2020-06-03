@@ -11,7 +11,7 @@ title                    : "Vasileia Karasavva"
 title_separator          : "-"
 name                     : &name "Vasileia Karasavva"
 description              : &description "personal description"
-url                      : https://vasiakaras.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.vkarasavva.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vasiakaras/vasiakaras.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Vasileia Karasavva"
   avatar           : "profile.jpg"
-  bio              : "I am a lecturer (assistant professor) in the <a href=\"https://www.gla.ac.uk/schools/computing/\" style=\"color: inherit; text-decoration: none;\">School of Computing Science</a> at the <a href=\"http://www.glasgow.ac.uk\"  style=\"color: inherit; text-decoration: none;\">University of Glasgow</a>."
+  bio              : "I am a Master."
   location         : "Ottawa, Canada"
   employer         :
   institution      : "Carleton University"
