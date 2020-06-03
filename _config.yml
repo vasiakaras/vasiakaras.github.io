@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michel Steuwer"
+title                    : "Vasileia Karasavva"
 title_separator          : "-"
-name                     : &name "Michel Steuwer"
+name                     : &name "Vasileia Karasavva"
 description              : &description "personal description"
 url                      : https://vasiakaras.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,37 +78,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michel Steuwer"
+  name             : "Vasileia Karasavva"
   avatar           : "profile.jpg"
   bio              : "I am a lecturer (assistant professor) in the <a href=\"https://www.gla.ac.uk/schools/computing/\" style=\"color: inherit; text-decoration: none;\">School of Computing Science</a> at the <a href=\"http://www.glasgow.ac.uk\"  style=\"color: inherit; text-decoration: none;\">University of Glasgow</a>."
-  location         : "Glasgow, Scotland"
+  location         : "Ottawa, Canada"
   employer         :
-  institution      : "University of Glasgow"
-  institution-url  : "https://www.gla.ac.uk/"
-  googlescholar    : "https://scholar.google.com/citations?user=XdXJRZEAAAAJ"
-  msacademic       : "https://academic.microsoft.com/#/profile/MichelSteuwer"
-  email            : "michel.steuwer@glasgow.ac.uk"
+  institution      : "Carleton University"
+  institution-url  : "https://carleton.ca/"
+  googlescholar    : "https://scholar.google.com/citations?user=rJeYK6kAAAAJ"
+  msacademic       : 
+  email            : "vasiakaras@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
-  dblp             : "https://dblp.uni-trier.de/pers/hd/s/Steuwer:Michel"
+  dblp             : 
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "michel-steuwer"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "michel-steuwer-63882297"
-  orcid            : "https://orcid.org/0000-0001-5048-0741"
+  linkedin         : "vasia-karasavva"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "MichelSteuwer"
+  twitter          : "thevasiak"
   vine             :
   weibo            :
   xing             :
