@@ -44,6 +44,9 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a></li>
       {% endif %}
+      {% if author.researchgate %}
+        <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate-square ai-fw"></i> ResearchGate</a></li>
+      {% endif %}
       {% if author.msacademic %}
         <li><a href="{{ author.msacademic }}"><i class="ai ai-academia-square ai-fw"></i> Microsoft Academic</a></li>
       {% endif %}
