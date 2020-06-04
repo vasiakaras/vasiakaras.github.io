@@ -12,8 +12,8 @@ main:
   # - title: "Talks"
   #   url: /talks/
 
-  - title: "Committees"
-    url: /committees/
+  # - title: "Committees"
+  #   url: /committees/
 
   # - title: "Teaching"
   #   url: /teaching/
