@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email Address
+<!-- Email Address
 -----
 {% if site.author.email %}
   <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
@@ -30,4 +30,4 @@ Postal Address
     Glasgow G12 8RZ
     Scotland
 
-Here are guides on how to reach the [School](http://www.gla.ac.uk/schools/computing/contact/) in particular and the [University](http://www.gla.ac.uk/explore/maps/howtogethere/) in general.
+Here are guides on how to reach the [School](http://www.gla.ac.uk/schools/computing/contact/) in particular and the [University](http://www.gla.ac.uk/explore/maps/howtogethere/) in general. -->
