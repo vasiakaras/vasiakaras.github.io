@@ -208,33 +208,33 @@ defaults:
       layout: single
       author_profile: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
   # _people
-  - scope:
-      path: ""
-      type: people
-    values:
-      layout: single
-      author_profile: true
+  # - scope:
+  #     path: ""
+  #     type: people
+  #   values:
+  #     layout: single
+  #     author_profile: true
   # _committees
-  - scope:
-      path: ""
-      type: committees
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
+  # - scope:
+  #     path: ""
+  #     type: committees
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
 
 # Sass/SCSS
 sass:
