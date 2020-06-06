@@ -1,5 +1,5 @@
 ---
-title: "Bio - Michel Steuwer"
+title: "Bio - Vasileia Karasavva"
 sitemap: false
 permalink: /bio.html
 ---
