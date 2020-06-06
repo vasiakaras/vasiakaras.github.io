@@ -180,15 +180,15 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-  committees:
-    output: true
-    permalink: /:collection/:path/
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # committees:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
