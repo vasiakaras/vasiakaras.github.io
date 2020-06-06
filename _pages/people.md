@@ -2,11 +2,11 @@
 layout: single
 title: "People I work with"
 permalink: /people/
-redirect_from:
-  - /team/
 author_profile: true
 ---
-<!-- {% assign people = site.people | sort: 'start-year' | group_by: 'type' %}
+
+
+{% comment %} {% assign people = site.people | sort: 'start-year' | group_by: 'type' %}
 
 <h2>PhD Students</h2>
 
@@ -80,7 +80,10 @@ author_profile: true
   </li>
 
 {% endfor %}
+
+
   </ul>
 {% endif %}
 {% endfor %}
- -->
+
+{% endcomment %}
