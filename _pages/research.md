@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Currently Working"
+title: "Currently Working On"
 permalink: /research/
 author_profile: true
 ---
