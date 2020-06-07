@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 {% if site.author.googlescholar or site.author.dblp %} 
-You can also find my publications on my <a href="{{site.author.researchgate}}">ResearchGate</a> and <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.
+You can also find my publications on <a href="{{site.author.researchgate}}">ResearchGate</a> and <a href="{{site.author.googlescholar}}">Google Scholar</a>.
 {% endif %}
 
 
