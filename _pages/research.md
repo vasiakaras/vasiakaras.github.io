@@ -7,7 +7,7 @@ author_profile: true
 
 ### 1. Understanding Keyboard Courage: The Who, What, and Whys of Online Trolling
 
-Role: Principal Investigator
+<ins>Role:</ins> Principal Investigator
 
 <ins>Co-investigator:</ins> Stewart J., Mularczyk K.; <ins>Supervisor:</ins> Forth A.
 
@@ -16,7 +16,7 @@ Goal: To assess the personality factors associated with engaging in trolling beh
 
 ### 2. Happiness with the First Share: Personality Traits and Likelihood of Sharing Positive News Online
 
-Role: Principal Investigator
+<ins>Role:</ins> Principal Investigator
 
 <ins>Supervisor:</ins> Zelenski J.
 
@@ -25,7 +25,7 @@ Goal: We want to examine how personality traits relate with the content of posts
 
 ### 3. Aggrieved Entitlement Scale Development and Validation
 
-Role: Principal Investigator
+<ins>Role:</ins> Principal Investigator
 
 <ins>Co-investigator:</ins> Stewart J.; <ins>Supervisor:</ins> Forth A. 
 
