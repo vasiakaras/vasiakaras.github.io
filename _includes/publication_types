@@ -1,3 +1,0 @@
-{% assign types =  "Journal Article, Conference Oral Presentation, Conference Poster, Other Publication" | split: ", " %}
-
-{% comment %} {% assign types =  "Journal Article, Conference Paper, Workshop Paper, Book Chapter, Thesis, Standards Committee Paper, Technical Report" | split: ", " %} {% endcomment %}
