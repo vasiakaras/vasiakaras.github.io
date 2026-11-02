@@ -42,13 +42,12 @@ body::after {
 a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-/* Sage header band with an olive branch and a wave into the page */
-.hero { position: relative; background: var(--sage); overflow: hidden; }
+/* Sage header band with faint ducks and a wave into the page */
+.hero { position: relative; background: var(--sage) url(ducks.svg) 0 0 / 300px 200px; overflow: hidden; }
 .topnav { position: relative; z-index: 1; display: flex; flex-wrap: wrap; gap: 0.25rem 1.25rem; padding-block: 1.25rem 0; font-size: 0.95rem; }
 .topnav a { color: var(--ink); opacity: 0.75; }
 .topnav a:hover { opacity: 1; color: var(--link); text-decoration: none; }
 .hero header { position: relative; display: flex; gap: 2rem; align-items: flex-end; padding-top: 2.25rem; padding-bottom: 3.75rem; }
-.olive { position: absolute; top: 1.25rem; right: max(1rem, calc(50% - 32rem)); width: 17rem; color: var(--sage-deep); opacity: 0.55; }
 .wave { display: block; position: absolute; bottom: -1px; left: 0; width: 100%; height: 2.5rem; fill: var(--paper); }
 .wave-footer { position: static; margin-top: 2.5rem; margin-bottom: -1px; fill: var(--sage); }
 main.page { padding-top: 1.5rem; }
@@ -87,8 +86,7 @@ footer .page { padding-block: 1.5rem; }
 
 @media (max-width: 34rem) {
   .hero header { padding-top: 1.75rem; }
-  .olive { width: 11rem; top: 0.75rem; right: -1.5rem; opacity: 0.4; }
-  .hero header { flex-direction: column; align-items: flex-start; gap: 1rem; }
+    .hero header { flex-direction: column; align-items: flex-start; gap: 1rem; }
   .portrait-wrap { width: 9rem; }
   .dated li { padding-left: 0; text-indent: 0; }
   .dated span { display: block; width: auto; font-size: 0.95rem; }
