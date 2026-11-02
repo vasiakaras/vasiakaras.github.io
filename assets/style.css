@@ -125,6 +125,8 @@ main > section + section { border-top: 1px solid var(--rule); }
 .pubs { padding-left: 1.4rem; margin: 0; }
 .pubs li { margin-bottom: 0.9rem; padding-left: 0.25rem; }
 .pubs a { font-size: 0.85rem; margin-left: 0.25rem; }
+.pubs .featured { background: var(--accent-soft); border-radius: 0.6rem; padding: 0.75rem 1rem; margin-left: -0.25rem; }
+.press { display: block; margin-top: 0.35rem; font-size: 0.88rem; color: var(--accent); font-weight: 500; }
 
 .outlets { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
 .outlets a {
