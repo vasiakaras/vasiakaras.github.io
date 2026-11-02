@@ -12,7 +12,7 @@
 
 :root {
   color-scheme: light;
-  /* palette: Dusk Blue #165492, Dark Cyan #0098a3, Raspberry Plum #bb3f9e, Light Blue #bee1ee */
+  /* palette: Dusk Blue #165492, Dark Cyan #0098a3, Raspberry Plum #bb3f9e, Light Blue #bee1ee, Banana Cream #ede45e */
   --paper: #fdfcf8;
   --ink: #1d2a38;
   --muted: #5b6b7a;
@@ -23,6 +23,7 @@
   --on-deep: #cfe0f0; /* secondary text on the deep bands */
   --sky: #bee1ee;     /* links on the deep bands */
   --tint: #eef5f8;    /* faint blue behind a section */
+  --banana: #ede45e;  /* accent on the deep bands */
   --rule: #d8e6ec;
 }
 
@@ -43,6 +44,8 @@ body::after {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .15 0 0 0 0 .25 0 0 0 0 .35 0 0 0 .06 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
 }
 
+::selection { background: var(--banana); color: var(--ink); }
+
 a { color: var(--link); text-decoration: none; }
 a:hover { color: var(--plum); text-decoration: underline; }
 
@@ -51,10 +54,10 @@ a:hover { color: var(--plum); text-decoration: underline; }
 .hero h1 { color: #fff; }
 .hero .position { color: var(--on-deep); }
 .hero a { color: var(--sky); }
-.hero a:hover { color: #fff; }
+.hero a:hover { color: var(--banana); }
 .topnav { position: relative; z-index: 1; display: flex; flex-wrap: wrap; gap: 0.25rem 1.25rem; padding-block: 1.25rem 0; font-size: 0.95rem; }
 .topnav a { color: var(--sky); }
-.topnav a:hover { color: #fff; text-decoration: none; }
+.topnav a:hover { color: var(--banana); text-decoration: none; }
 .hero header { position: relative; display: flex; gap: 2rem; align-items: flex-end; padding-top: 2.25rem; padding-bottom: 3.75rem; }
 .wave { display: block; position: absolute; bottom: -1px; left: 0; width: 100%; height: 2.5rem; fill: var(--paper); }
 .wave-footer { position: static; margin-top: 2.5rem; margin-bottom: -1px; fill: var(--deep); }
