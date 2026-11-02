@@ -12,19 +12,21 @@
 
 :root {
   color-scheme: light;
-  /* palette: #165492 #0098a3 #bb3f9e #f2dcfd #89beff */
+  /* palette: Dusk Blue #165492, Dark Cyan #0098a3, Raspberry Plum #bb3f9e, Light Blue #bee1ee */
   --paper: #fdfcf8;
   --ink: #1d2a38;
   --muted: #5b6b7a;
   --link: #165492;
   --cyan: #0098a3;
   --plum: #bb3f9e;
-  --sky: #f2dcfd;     /* pale lavender: header and footer */
-  --banana: #e4efff;  /* #89beff, softened for a text background */
+  --deep: #165492;    /* header and footer */
+  --on-deep: #cfe0f0; /* secondary text on the deep bands */
+  --sky: #bee1ee;     /* links on the deep bands */
+  --tint: #eef5f8;    /* faint blue behind a section */
   --rule: #d8e6ec;
 }
 
-html { background: var(--sky); }
+html { background: var(--deep); }
 
 body {
   margin: 0;
@@ -44,24 +46,30 @@ body::after {
 a { color: var(--link); text-decoration: none; }
 a:hover { color: var(--plum); text-decoration: underline; }
 
-/* Lavender header band with a wave into the page */
-.hero { position: relative; background: var(--sky); overflow: hidden; }
+/* Dusk blue header band with a wave into the page */
+.hero { position: relative; background: var(--deep); overflow: hidden; }
+.hero h1 { color: #fff; }
+.hero .position { color: var(--on-deep); }
+.hero a { color: var(--sky); }
+.hero a:hover { color: #fff; }
 .topnav { position: relative; z-index: 1; display: flex; flex-wrap: wrap; gap: 0.25rem 1.25rem; padding-block: 1.25rem 0; font-size: 0.95rem; }
-.topnav a { color: var(--ink); opacity: 0.75; }
-.topnav a:hover { opacity: 1; color: var(--plum); text-decoration: none; }
+.topnav a { color: var(--sky); }
+.topnav a:hover { color: #fff; text-decoration: none; }
 .hero header { position: relative; display: flex; gap: 2rem; align-items: flex-end; padding-top: 2.25rem; padding-bottom: 3.75rem; }
 .wave { display: block; position: absolute; bottom: -1px; left: 0; width: 100%; height: 2.5rem; fill: var(--paper); }
-.wave-footer { position: static; margin-top: 2.5rem; margin-bottom: -1px; fill: var(--sky); }
+.wave-footer { position: static; margin-top: 2.5rem; margin-bottom: -1px; fill: var(--deep); }
 main.page { padding-top: 1.5rem; }
 
-/* Full-bleed soft blue band behind a section */
-.band { background: var(--banana); box-shadow: 0 0 0 100vmax var(--banana); clip-path: inset(0 -100vmax); padding-block: 0.25rem 1.25rem; margin-top: 2.5rem; }
+/* Full-bleed faint blue band behind a section */
+.band { background: var(--tint); box-shadow: 0 0 0 100vmax var(--tint); clip-path: inset(0 -100vmax); padding-block: 0.25rem 1.25rem; margin-top: 2.5rem; }
 .band h2 { margin-top: 1.75rem; }
 .portrait-wrap { flex-shrink: 0; width: 11rem; }
 .portrait { display: block; width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; object-position: center 15%; border-radius: 0.9rem; }
 h1 { font-size: 2rem; font-weight: 600; line-height: 1.15; margin: 0 0 0.4rem; }
 .position { margin: 0 0 0.75rem; color: var(--muted); }
 .contact { margin: 0; font-size: 1rem; }
+.contact a { white-space: nowrap; }
+.hero .contact { color: var(--on-deep); }
 
 h2 { font-size: 1.3rem; font-weight: 600; margin: 2.25rem 0 0.8rem; }
 h2::after { content: ""; display: block; width: 2.25rem; height: 2px; margin-top: 0.4rem; background: var(--cyan); border-radius: 2px; }
@@ -83,7 +91,7 @@ li { margin-bottom: 0.45rem; }
 
 .small { font-size: 0.95rem; color: var(--muted); }
 
-footer { background: var(--sky); font-size: 0.9rem; color: var(--muted); }
+footer { background: var(--deep); font-size: 0.9rem; color: var(--on-deep); }
 footer .page { padding-block: 1.5rem; }
 
 @media (max-width: 34rem) {
