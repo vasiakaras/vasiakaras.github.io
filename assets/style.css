@@ -77,10 +77,6 @@ h1 { font-size: 2rem; font-weight: 600; line-height: 1.15; margin: 0 0 0.4rem; }
 h2 { font-size: 1.3rem; font-weight: 600; margin: 2.25rem 0 0.8rem; }
 h2::after { content: ""; display: block; width: 2.25rem; height: 2px; margin-top: 0.4rem; background: var(--cyan); border-radius: 2px; }
 
-.aside {
-  margin: 1.5rem 0; padding: 0.2rem 0 0.2rem 1.25rem; border-left: 3px solid var(--plum);
-  font-style: italic; font-size: 1.2rem; line-height: 1.5; color: var(--plum);
-}
 
 ul { padding-left: 1.2rem; }
 li { margin-bottom: 0.45rem; }
