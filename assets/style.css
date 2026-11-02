@@ -43,7 +43,7 @@ a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 /* Sage header band with faint ducks and a wave into the page */
-.hero { position: relative; background: var(--sage) url(ducks.svg) 0 0 / 300px 200px; overflow: hidden; }
+.hero { position: relative; background: var(--sage) url(ducks.svg) 0 0 / 520px 320px; overflow: hidden; }
 .topnav { position: relative; z-index: 1; display: flex; flex-wrap: wrap; gap: 0.25rem 1.25rem; padding-block: 1.25rem 0; font-size: 0.95rem; }
 .topnav a { color: var(--ink); opacity: 0.75; }
 .topnav a:hover { opacity: 1; color: var(--link); text-decoration: none; }
