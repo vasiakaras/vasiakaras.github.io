@@ -56,11 +56,11 @@ main.page { padding-top: 1.5rem; }
 /* Full-bleed warm band behind a section */
 .band { background: var(--sand); box-shadow: 0 0 0 100vmax var(--sand); clip-path: inset(0 -100vmax); padding-block: 0.25rem 1.25rem; margin-top: 2.5rem; }
 .band h2 { margin-top: 1.75rem; }
-/* arch-shaped portrait with an offset outline */
-.portrait-wrap { position: relative; flex-shrink: 0; width: 11rem; }
+/* arch-shaped portrait with an evenly spaced outline */
+.portrait-wrap { position: relative; flex-shrink: 0; width: 11rem; margin: 0.5rem; }
 .portrait-wrap::before {
-  content: ""; position: absolute; inset: 0; transform: translate(0.6rem, -0.6rem);
-  border: 1.5px solid var(--sage-deep); border-radius: 999px 999px 0.4rem 0.4rem;
+  content: ""; position: absolute; inset: -0.5rem;
+  border: 1.5px solid var(--sage-deep); border-radius: 999px 999px 0.9rem 0.9rem;
 }
 .portrait { position: relative; display: block; width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; object-position: center 15%; border-radius: 999px 999px 0.4rem 0.4rem; }
 h1 { font-size: 2rem; font-weight: 600; line-height: 1.15; margin: 0 0 0.4rem; }
