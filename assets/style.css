@@ -22,6 +22,8 @@
   --sand: #f3eadd;
 }
 
+html { background: var(--sage); }
+
 body {
   margin: 0;
   background: var(--paper);
@@ -42,20 +44,36 @@ a:hover { text-decoration: underline; }
 
 /* Sage header band with an olive branch and a wave into the page */
 .hero { position: relative; background: var(--sage); overflow: hidden; }
-.hero header { position: relative; display: flex; gap: 1.75rem; align-items: flex-end; padding-bottom: 3.5rem; }
+.topnav { position: relative; z-index: 1; display: flex; flex-wrap: wrap; gap: 0.25rem 1.25rem; padding-block: 1.25rem 0; font-size: 0.95rem; }
+.topnav a { color: var(--ink); opacity: 0.75; }
+.topnav a:hover { opacity: 1; color: var(--link); text-decoration: none; }
+.hero header { position: relative; display: flex; gap: 2rem; align-items: flex-end; padding-top: 2.25rem; padding-bottom: 3.75rem; }
 .olive { position: absolute; top: 1.25rem; right: max(1rem, calc(50% - 32rem)); width: 17rem; color: var(--sage-deep); opacity: 0.55; }
 .wave { display: block; position: absolute; bottom: -1px; left: 0; width: 100%; height: 2.5rem; fill: var(--paper); }
+.wave-footer { position: static; margin-top: 2.5rem; margin-bottom: -1px; fill: var(--sage); }
 main.page { padding-top: 1.5rem; }
 
 /* Full-bleed warm band behind a section */
 .band { background: var(--sand); box-shadow: 0 0 0 100vmax var(--sand); clip-path: inset(0 -100vmax); padding-block: 0.25rem 1.25rem; margin-top: 2.5rem; }
 .band h2 { margin-top: 1.75rem; }
-.portrait { width: 9.5rem; height: auto; flex-shrink: 0; border-radius: 3px; }
+/* arch-shaped portrait with an offset outline */
+.portrait-wrap { position: relative; flex-shrink: 0; width: 11rem; }
+.portrait-wrap::before {
+  content: ""; position: absolute; inset: 0; transform: translate(0.6rem, -0.6rem);
+  border: 1.5px solid var(--sage-deep); border-radius: 999px 999px 0.4rem 0.4rem;
+}
+.portrait { position: relative; display: block; width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; object-position: center 15%; border-radius: 999px 999px 0.4rem 0.4rem; }
 h1 { font-size: 2rem; font-weight: 600; line-height: 1.15; margin: 0 0 0.4rem; }
 .position { margin: 0 0 0.75rem; color: var(--muted); }
 .contact { margin: 0; font-size: 1rem; }
 
-h2 { font-size: 1.3rem; font-weight: 600; margin: 2.25rem 0 0.6rem; }
+h2 { font-size: 1.3rem; font-weight: 600; margin: 2.25rem 0 0.8rem; }
+h2::after { content: ""; display: block; width: 2.25rem; height: 2px; margin-top: 0.4rem; background: var(--sage-deep); border-radius: 2px; }
+
+.aside {
+  margin: 1.5rem 0; padding: 0.2rem 0 0.2rem 1.25rem; border-left: 3px solid var(--link);
+  font-style: italic; font-size: 1.2rem; line-height: 1.5; color: var(--link);
+}
 
 ul { padding-left: 1.2rem; }
 li { margin-bottom: 0.45rem; }
@@ -69,14 +87,14 @@ li { margin-bottom: 0.45rem; }
 
 .small { font-size: 0.95rem; color: var(--muted); }
 
-footer { margin-top: 2rem; background: var(--sage); font-size: 0.9rem; color: var(--muted); }
+footer { background: var(--sage); font-size: 0.9rem; color: var(--muted); }
 footer .page { padding-block: 1.5rem; }
 
 @media (max-width: 34rem) {
-  .hero header { padding-top: 2rem; }
+  .hero header { padding-top: 1.75rem; }
   .olive { width: 11rem; top: 0.75rem; right: -1.5rem; opacity: 0.4; }
   .hero header { flex-direction: column; align-items: flex-start; gap: 1rem; }
-  .portrait { width: 8rem; }
+  .portrait-wrap { width: 9rem; }
   .dated li { padding-left: 0; text-indent: 0; }
   .dated span { display: block; width: auto; font-size: 0.95rem; }
 }
